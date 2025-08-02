@@ -1,7 +1,7 @@
 # DTDC_Delivery_Prediction
 visualization and modeling!  ---  **Happy Analyzing! 🚀**
 
-<img src="https://github.com/rpjinu/DTDC_Delivery_Prediction/blob/main/download.jpeg" width=200>
+<img src="https://github.com/rpjinu/DTDC_Delivery_Prediction/blob/main/download.jpeg" width=500>
 
 # 📦 DTDC Courier Dataset
 
